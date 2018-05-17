@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gemarblockmod",
+  "name": "Custom Block mod",
+  "description": "This mod is a Final exercise For my Java Study from Alfa College",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Gemar Koning, Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

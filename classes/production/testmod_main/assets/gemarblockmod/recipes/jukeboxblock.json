@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BCB"
+  ],
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:redstone",
+        "data": 0
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:planks",
+        "data": 0
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:iron_block",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "gemarblockmod:jukeboxblock",
+    "data": 0
+  }
+}

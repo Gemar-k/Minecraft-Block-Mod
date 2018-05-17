@@ -1,0 +1,12 @@
+{
+  "jukeboxblock_sound": {
+    "category": "block",
+    "subtitle": "gemarblockmod.subtitle.jukeboxblock_sound",
+    "sounds": [
+      {
+        "name": "gemarblockmod:jukeboxblock_sound",
+        "stream": true
+      }
+    ]
+  }
+}

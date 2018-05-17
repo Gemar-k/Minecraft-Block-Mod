@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": [
+      {
+        "item": "minecraft:emerald",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "gemarblockmod:javablock",
+    "data": 0
+  }
+}
